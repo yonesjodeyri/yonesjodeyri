@@ -27,7 +27,7 @@
 
 | I am learning it. | I'll learn it later. |
 | :--: | :--: |
-| <img src="https://skillicons.dev/icons?i=js"/> | <img src="https://skillicons.dev/icons?i=django,react,bootstrap,mysql,mongodb"/> |
+| <img src="https://skillicons.dev/icons?i=js"/> | <img src="https://skillicons.dev/icons?i=django,react,bootstrap,mysql,mongodb,typescript,nextjs,docker"/> |
 
 
 <!-- [![](https://komarev.com/ghpvc/?username=yonesjodeyri&icon=2&color=3)](https://visitcount.itsvg.in) -->
