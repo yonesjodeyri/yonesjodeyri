@@ -1,14 +1,14 @@
 <div align="center">
   
 # Hi There , I'm yones👋
-### Junior Full Stack Developer • Ethical Hacker • Chess Player
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonesjodeyri904) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yonesjodeyri) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Yonesjodeyri) 
+### Junior Full Stack Developer • --- • ---
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yonesjodeyri904@gmail.com) 
 <br><br>
 
-| Languages | Framwork & Tools & ... |
+| Learned | Framwork & Tools & ... |
 | :--: | :--: |
 | <img src="https://skillicons.dev/icons?i=html,css,python"/> | <img src="https://skillicons.dev/icons?i=git,github,sass,tailwind,vscode,figma,regex"/> |
 
